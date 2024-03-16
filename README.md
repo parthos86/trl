@@ -15,7 +15,7 @@
     <a href="https://github.com/huggingface/trl/releases">
         <img alt="GitHub release" src="https://img.shields.io/github/release/huggingface/trl.svg">
     </a>
-</p>
+</p> 
 
 
 ## What is it?
